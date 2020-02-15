@@ -4,7 +4,7 @@
 
 ### Download App
 
-[[Click Me To Download AutoServer App](https://github.com/MarsDiplomatToEarth/AutoServerApp/blob/master/autoserver1.1.5.apk?raw=true "Click Me To Download AutoServer App")]
+[[Click Me To Download AutoServer App](https://github.com/MarsDiplomatToEarth/AutoServerApp/blob/master/autoserver1.0.0.apk?raw=true "Click Me To Download AutoServer App")]
 
 ------------
 

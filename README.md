@@ -4,7 +4,7 @@
 
 ### Download App
 
-[[Click Me To Download AutoServer App](https://github.com/MarsDiplomatToEarth/AutoServerApp/blob/master/autoserver1.0.0.apk?raw=true "Click Me To Download AutoServer App")]
+[[Click Me To Download AutoServer App](https://github.com/MarsDiplomatToEarth/AutoServer/blob/master/AutoServer1.0.0.apk?raw=true "Click Me To Download AutoServer App")]
 
 ------------
 
@@ -51,7 +51,7 @@ AutoServer is Automatic Development Environment Based on Python,HTTP API,Uiautom
 ### AutoServer Http Api Document
 
 
-[[Click me To Document Page](https://github.com/MarsDiplomatToEarth/AutoServerApp/blob/master/AutoServer_Http_Api_Document.md "Click me To Document Page")]
+[[Click me To Document Page](https://github.com/MarsDiplomatToEarth/AutoServer/blob/master/AutoServer_Http_Api_Document.md "Click me To Document Page")]
 
 ------------
 
